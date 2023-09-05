@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dicoding Android Pemula Submission</string>
+    <string name="lang_name">Language Name</string>
+    <string name="lang_author">Language Author</string>
+    <string name="lang_year">Language Year</string>
+    <string name="about_me">About Me</string>
+    <string name="lang_desc">Description</string>
+    <string name="dummy_desc">Description goes here.</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_email">Student Email</string>
+</resources>
